@@ -28,14 +28,4 @@
 🔹 Security testing to prevent fraud in online betting platforms  
 🔹 Continuous integration and deployment with Jenkins and Rancher  
 
-📌 **Check out my projects:**  
-🔗 [GitHub Repositories](https://github.com/GabsVasconcelos)  
 
----
-
-### 📫 Let's Connect!  
-📧 **Email:** [gabrielavasconcelos33@gmail.com](mailto:gabrielavasconcelos33@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/gabriela-vasconcelos-marinho](https://www.linkedin.com/in/gabriela-vasconcelos-marinho/)  
-💬 **Let's Talk Tech! Open to collaborations and new opportunities.**  
-
----
