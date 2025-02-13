@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Gabriela Vasconcelos 🚀</h1>
 
 <p align="center">
-  <strong>💻 QA Engineer | Technical Support | Cybersecurity Enthusiast</strong>
+  <strong>💻 QA | Technical Support | Cybersecurity Enthusiast</strong>
 </p>
 
 ---
